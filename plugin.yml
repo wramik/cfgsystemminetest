@@ -1,0 +1,31 @@
+name: wramik
+version: 1.1.1
+author: wramik
+main: me.wramik
+depend: [ProtocolLib, Craftconomy3, PermissionsEx, Citizens, ChatEx, MinePacks, HolographicDisplays, NametagEdit, PlayerParticles, Vault, WorldEdit, WorldGuard]
+commands:
+    bit:
+    eris:
+    exp:
+    test:
+    spawn:
+    help:
+    sb:
+    st:
+    signa:
+    sex:
+    ch:
+    color:
+    pet:
+    eff:
+    m:
+    g:
+    gyes:
+    gno:
+    gsigna:
+    p:
+    q:
+    gc:
+    d:
+    addexp:
+    reloadcfg:
